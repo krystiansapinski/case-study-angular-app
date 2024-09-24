@@ -1,0 +1,27 @@
+[debug] [2024-09-24T20:31:39.145Z] ----------------------------------------------------------------------
+[debug] [2024-09-24T20:31:39.147Z] Command:       C:\Users\sapin\AppData\Local\fnm_multishells\9392_1727206259764\node.exe C:\Users\sapin\AppData\Local\fnm_multishells\9392_1727206259764\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-24T20:31:39.147Z] CLI Version:   9.23.3
+[debug] [2024-09-24T20:31:39.147Z] Platform:      win32
+[debug] [2024-09-24T20:31:39.147Z] Node Version:  v20.17.0
+[debug] [2024-09-24T20:31:39.147Z] Time:          Tue Sep 24 2024 22:31:39 GMT+0200 (czas środkowoeuropejski letni)
+[debug] [2024-09-24T20:31:39.147Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-24T20:31:39.177Z] Field ".functions" in "firebase.json" is possibly invalid: should be object
+[debug] [2024-09-24T20:31:39.178Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-24T20:31:39.179Z] > authorizing via signed-in user (sapinsky746@gmail.com)
+[debug] [2024-09-24T20:31:39.179Z] Field ".functions" in "firebase.json" is possibly invalid: should be object
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sapin\Desktop\case-study-angular-app
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
